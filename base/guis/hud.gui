@@ -1,0 +1,17 @@
+windowDef Desktop {
+	rect	0 ,0 ,640 ,480 
+	backcolor	0 ,0 ,0 ,0 
+	visible	1
+	nocursor	1
+
+
+	windowDef HUDBase	{
+		rect		4, 375, 128, 100 		
+		background "guis/assets/hud/hudbase_test2"
+	}
+	
+	windowDef Mugshot_Test	{
+		rect		3, 354, 90, 90
+		background "guis/assets/hud/mugshot_test"
+	}
+}

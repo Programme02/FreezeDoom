@@ -1,0 +1,57 @@
+windowDef Desktop { 
+	rect		0 ,0 ,640 ,480 
+	backcolor	0.45 ,0.55 ,0.7 ,0.11
+	menugui		1
+
+	onESC {
+		set "cmd" "close" ;
+	}
+	
+	
+	windowDef startbutton
+	{
+		rect		500,300,120,40
+		visible		1
+		text		"start"
+		textalign	1
+		textscale	0.7
+		backcolor	0,.5,1,1
+		
+		onMouseEnter
+		{
+			set "startbutton::backcolor"	"1 .6 0 1" ;
+			set	"cmd"	"play menu_rollover" ; 
+		}
+		
+		onMouseExit
+		{
+			set "startbutton::backcolor"	"0 .5 1 1" ;
+		}		
+		
+		onAction
+		{
+			set "cmd" "map testbox" ;
+			set	"cmd"	"play menu_select" ; 
+		}
+	}	
+}
+	onActivate {
+
+	}
+
+	onNamedEvent NoIntro {
+
+	}
+
+	onNamedEvent PlayIntro {
+	}	
+	
+	onNamedEvent saveGameOverwrite {
+	}
+
+	onNamedEvent saveGameOk {
+	}	
+	
+	onNamedEvent NoSurround {
+	}
+}

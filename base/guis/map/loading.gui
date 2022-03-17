@@ -1,0 +1,6 @@
+windowDef Desktop {
+	rect	0 ,0 ,640 ,480 
+	backcolor	0.4 ,0.2 ,0.1 , 1 
+	visible	1
+	nocursor	1
+}
