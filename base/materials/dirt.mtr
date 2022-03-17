@@ -1,0 +1,7 @@
+textures/dirt/dirt_ground01
+{
+	qer_editorimage textures/dirt/dirt_ground01
+	diffusemap textures/dirt/dirt_ground01
+	specularmap textures/dirt/dirt_ground01_rmao
+	bumpmap textures/dirt/dirt_ground01_n
+}

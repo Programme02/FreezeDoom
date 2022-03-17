@@ -1,0 +1,7 @@
+textures/cobble/cobble01
+{
+	qer_editorimage textures/cobble/cobble01_editorimage
+	diffusemap textures/cobble/cobble01
+	specularmap textures/cobble/cobble01_rmao
+	bumpmap textures/cobble/cobble01_n
+}

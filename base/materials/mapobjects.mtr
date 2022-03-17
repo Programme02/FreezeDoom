@@ -1,0 +1,4 @@
+models/mapobjects/doors/door_01/temp
+{
+	diffusemap	models/mapobjects/doors/door_01/temp.tga
+}

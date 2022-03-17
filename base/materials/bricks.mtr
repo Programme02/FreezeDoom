@@ -1,0 +1,23 @@
+textures/bricks/brick_wall01
+{
+	qer_editorimage textures/bricks/brick_wall01_editorimage
+	diffusemap textures/bricks/brick_wall01
+	specularmap textures/bricks/brick_wall01_rmao
+	bumpmap textures/bricks/brick_wall01_n
+}
+
+textures/bricks/brick_wall02
+{
+	qer_editorimage textures/bricks/brick_wall02_editorimage
+	diffusemap textures/bricks/brick_wall02
+	specularmap textures/bricks/brick_wall02_rmao
+	bumpmap textures/bricks/brick_wall02_n
+}
+
+textures/bricks/crypt_wall01
+{
+	qer_editorimage textures/bricks/crypt_wall01_editorimage
+	diffusemap textures/bricks/crypt_wall01
+	specularmap textures/bricks/crypt_wall01_rmao
+	bumpmap textures/bricks/crypt_wall01_n
+}

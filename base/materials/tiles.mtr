@@ -1,0 +1,7 @@
+textures/tiles/rock_tiles01
+{
+	qer_editorimage textures/tiles/rock_tiles01_editorimage
+	diffusemap textures/tiles/rock_tiles01
+	specularmap textures/tiles/rock_tiles01_rmao
+	bumpmap textures/tiles/rock_tiles01_n
+}

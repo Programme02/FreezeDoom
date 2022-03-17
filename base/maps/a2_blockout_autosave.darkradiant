@@ -1,0 +1,85 @@
+DarkRadiant Map Information File Version 2
+{
+	Layers
+	{
+		Layer 0 { Default }
+	}
+	NodeToLayerMapping
+	{
+		Node { 0 } // entity (world)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // entity (info_player_start_1)
+		Node { 0 } // entity (light_43)
+		Node { 0 } // entity (light_44)
+		Node { 0 } // entity (light_1)
+		Node { 0 } // entity (light_2)
+		Node { 0 } // entity (light_3)
+		Node { 0 } // entity (light_4)
+		Node { 0 } // entity (light_5)
+		Node { 0 } // entity (light_6)
+		Node { 0 } // entity (light_7)
+		Node { 0 } // entity (light_9)
+		Node { 0 } // entity (light_10)
+		Node { 0 } // entity (light_11)
+		Node { 0 } // entity (light_8)
+	}
+	MapProperties
+	{
+		KeyValue { "EditTimeInSeconds" "8751" } 
+		KeyValue { "LastCameraAngle" "-0.6 292.2 0" } 
+		KeyValue { "LastCameraPosition" "-152.701 -360.624 -50.8642" } 
+	}
+	MapEditTimings
+	{
+		TotalSecondsEdited { 8751 }
+	}
+	SelectionGroups
+	{
+	}
+	SelectionGroupNodeMapping
+	{
+	}
+	SelectionSets
+	{
+	}
+}

@@ -1,0 +1,31 @@
+fogs/basicFog
+{
+	fogLight			// tell the engine it is fog and not a light
+	noShadows
+	{
+		map		_fog	// the internal fog image
+		colored			// take rgba from entity shaderparms
+	}
+}
+
+fogs/pitFog
+{
+	lightFalloffImage		lights/square_light_simple_falloff.tga
+	fogLight			// tell the engine it is fog and not a light
+	noShadows
+	{
+		map		_fog	// the internal fog image
+		colored			// take rgba from entity shaderparms
+	}
+}
+
+fogs/delta
+{
+	fogLight
+	noShadows
+	{
+		map			_fog
+		alpha		0.5
+		colored
+	}
+}

@@ -1,0 +1,41 @@
+textures/particles/fire_test
+{
+	qer_editorimage textures/particles/fire_test
+	translucent
+	noShadows
+	nonsolid
+	sort 10
+{
+	blend add
+	map textures/particles/fire_test
+	vertexColor
+}
+}
+
+textures/particles/puff_test
+{
+	qer_editorimage textures/particles/puff_test
+	translucent
+	noShadows
+	nonsolid
+	sort 10
+{
+	blend add
+	map textures/particles/puff_test
+	vertexColor
+}
+}
+
+textures/particles/antimagic
+{
+	qer_editorimage textures/particles/antimagic
+	translucent
+	noShadows
+	nonsolid
+	sort 10
+{
+	blend add
+	map textures/particles/antimagic
+	vertexColor
+}
+}

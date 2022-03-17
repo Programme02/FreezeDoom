@@ -1,0 +1,15 @@
+textures/sfx/vpTest
+{
+	nonsolid
+	deform sprite
+	translucent
+	{
+		vertexProgram           heatHazeWithMask.vfp
+		vertexParm              0       time * 0.2 , time * 0.4 //scoll
+		vertexParm              1       0.85 //distortion
+		fragmentProgram			heatHazeWithMask.vfp
+		fragmentMap             0       _currentRender
+		fragmentMap             1       textures/sfx/vpTest.tga //normal
+		fragmentMap             2       textures/sfx/vpTest_alpha.tga
+	}
+}

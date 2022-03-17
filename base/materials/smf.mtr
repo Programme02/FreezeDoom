@@ -1,0 +1,21 @@
+//portal_sky for 3D skyboxes
+
+textures/smf/portal_sky
+{
+	qer_editorimage				textures/smf/portal_sky.tga
+	forceOpaque					// will still seal levels
+	noshadows
+	noimpact
+	sort						portalSky
+
+{
+		map						_currentRender
+
+		clamp
+		screen
+
+		// fix up the projection based on the screen coords
+		translate				global4 * 0.5, global5 * 0.5
+		scale					global4 * 0.5, global5 * 0.5
+}
+}

@@ -1,0 +1,686 @@
+Version 2
+// entity 0
+{
+"classname" "worldspawn"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 0 ) ( ( 0.0078125 0 0.2451171875 ) ( 0 0.0078125 0 ) ) "textures/rocks/rock_smooth" 0 0 0
+( 0 0.7071067690849304 0.7071067690849304 -2.842170943040401e-14 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/rocks/rock_smooth" 0 0 0
+( 0.7071067690849304 0 0.7071067690849304 -90.50966644287109 ) ( ( 0.0078125 0 0.2421875 ) ( 0 0.0078125 0 ) ) "textures/rocks/rock_smooth" 0 0 0
+( 0 0 -1 -16 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -0.7071067690849304 0.7071067690849304 -1470.782104492188 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/rocks/rock_smooth" 0 0 0
+( -0.7071067690849304 0 0.7071067690849304 -90.50966644287109 ) ( ( 0.0078125 0 -0.244140625 ) ( 0 0.0078125 0 ) ) "textures/rocks/rock_smooth" 0 0 0
+}
+}
+// primitive 1
+{
+brushDef3
+{
+( 0 0 1 -96 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 2032 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -2064 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 2
+{
+brushDef3
+{
+( 0 0 1 -192 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1936 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1968 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 3
+{
+brushDef3
+{
+( 0 0 1 -144 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1840 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1872 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 4
+{
+brushDef3
+{
+( 0 0 1 -48 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1744 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1776 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 5
+{
+brushDef3
+{
+( 0 0 1 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1648 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1680 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 6
+{
+brushDef3
+{
+( 0 0 1 -32 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1552 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1584 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 7
+{
+brushDef3
+{
+( 0 0 1 -144 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1456 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1488 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 8
+{
+brushDef3
+{
+( 0 0 1 -80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1456 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1488 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 9
+{
+brushDef3
+{
+( 0 0 1 -192 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1360 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1392 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 10
+{
+brushDef3
+{
+( 0 0 1 -144 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1264 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1296 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 11
+{
+brushDef3
+{
+( 0 0 1 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1168 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1200 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 12
+{
+brushDef3
+{
+( 0 0 1 -144 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1072 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1104 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 13
+{
+brushDef3
+{
+( 0 0 1 -80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 1072 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1104 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 14
+{
+brushDef3
+{
+( 0 0 1 -96 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 976 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1008 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 15
+{
+brushDef3
+{
+( 0 0 1 -48 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 976 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -1008 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 16
+{
+brushDef3
+{
+( 0 0 1 -32 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 880 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -912 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 17
+{
+brushDef3
+{
+( 0 0 1 -176 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 880 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -912 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 18
+{
+brushDef3
+{
+( 0 0 1 -80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 784 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -816 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 19
+{
+brushDef3
+{
+( 0 0 1 -144 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 592 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -624 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 20
+{
+brushDef3
+{
+( 0 0 1 -32 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 592 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -624 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 21
+{
+brushDef3
+{
+( 0 0 1 -400 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -96 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -2208 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/sky/eclipse" 0 0 0
+}
+}
+// primitive 22
+{
+brushDef3
+{
+( 0 0 1 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 96 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/sky/eclipse" 0 0 0
+}
+}
+// primitive 23
+{
+brushDef3
+{
+( 0 0 1 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -96 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 -400 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -2208 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/sky/eclipse" 0 0 0
+}
+}
+// primitive 24
+{
+brushDef3
+{
+( 0 1 0 -96 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -144 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -2208 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 1 128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/sky/eclipse" 0 0 0
+}
+}
+// primitive 25
+{
+brushDef3
+{
+( 0 0 1 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -2224 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 2208 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/sky/eclipse" 0 0 0
+}
+}
+// primitive 26
+{
+brushDef3
+{
+( 0 0 1 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -96 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -2208 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -400 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/sky/eclipse" 0 0 0
+}
+}
+// primitive 27
+{
+brushDef3
+{
+( 0 0 1 -32 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 496 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -528 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 28
+{
+brushDef3
+{
+( 0 0 1 -64 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 496 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -528 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 29
+{
+brushDef3
+{
+( 0 0 1 -64 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 400 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -432 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 30
+{
+brushDef3
+{
+( 0 0 1 -32 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 304 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -336 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 31
+{
+brushDef3
+{
+( 0 0 1 -128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 304 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -336 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 32
+{
+brushDef3
+{
+( 0 0 1 -128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 208 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -240 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 33
+{
+brushDef3
+{
+( 0 0 1 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -144 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 34
+{
+brushDef3
+{
+( 0 0 1 -192 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 16 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -48 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 35
+{
+brushDef3
+{
+( 0 0 1 -192 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 1 0 16 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 1 0 0 -112 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 0 -1 0 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( 0 -1 0 -48 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+( -1 0 0 80 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/dev/dev256" 0 0 0
+}
+}
+// primitive 36
+{
+brushDef3
+{
+( 0 0 1 32 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -95 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 383 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -2207 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 37
+{
+brushDef3
+{
+( 0 0 1 32 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -95 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 -385 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -2207 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 38
+{
+brushDef3
+{
+( 0 0 1 32 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 2207 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -2208 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -383 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 39
+{
+brushDef3
+{
+( 0 0 1 32 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -96 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 95 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -383 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 40
+{
+brushDef3
+{
+( 0 0 1 127 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 -95 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 -384 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 -128 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -2207 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -383 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+}
+// entity 1
+{
+"classname" "info_player_start"
+"name" "info_player_start_1"
+"angle" "90.000000"
+"origin" "0 -2048 16"
+}
+// entity 2
+{
+"classname" "light"
+"name" "light_43"
+"_color" "0.776 0.800 0.835"
+"light_center" "0 0 0"
+"light_radius" "1024 1024 1024"
+"nodiffuse" "0"
+"noshadows" "0"
+"nospecular" "0"
+"origin" "0 -2160 336"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 3
+{
+"classname" "light"
+"name" "light_44"
+"_color" "1.000 0.110 0.153"
+"light_center" "0 0 0"
+"light_radius" "1024 1024 1024"
+"nodiffuse" "0"
+"noshadows" "0"
+"nospecular" "0"
+"origin" "0 64 336"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 4
+{
+"classname" "light"
+"name" "light_1"
+"_color" "0.369 0.000 0.008"
+"light_center" "0 0 0"
+"light_radius" "544 544 544"
+"nodiffuse" "0"
+"noshadows" "1"
+"nospecular" "1"
+"origin" "-336 -496 272"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 5
+{
+"classname" "light"
+"name" "light_2"
+"_color" "0.369 0.000 0.008"
+"light_center" "0 0 0"
+"light_radius" "544 544 544"
+"nodiffuse" "0"
+"noshadows" "1"
+"nospecular" "1"
+"origin" "336 -496 256"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 6
+{
+"classname" "light"
+"name" "light_3"
+"_color" "0.161 0.173 0.204"
+"light_center" "0 0 0"
+"light_radius" "544 544 544"
+"nodiffuse" "0"
+"noshadows" "1"
+"nospecular" "1"
+"origin" "-336 -1584 272"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 7
+{
+"classname" "light"
+"name" "light_4"
+"_color" "0.161 0.173 0.204"
+"light_center" "0 0 0"
+"light_radius" "544 544 544"
+"nodiffuse" "0"
+"noshadows" "1"
+"nospecular" "1"
+"origin" "336 -1584 256"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 8
+{
+"classname" "light"
+"name" "light_5"
+"_color" "0.188 0.188 0.188"
+"light_center" "0 0 0"
+"light_radius" "544 544 544"
+"nodiffuse" "0"
+"noshadows" "1"
+"nospecular" "1"
+"origin" "-336 -1056 272"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 9
+{
+"classname" "light"
+"name" "light_6"
+"_color" "0.188 0.188 0.188"
+"light_center" "0 0 0"
+"light_radius" "544 544 544"
+"nodiffuse" "0"
+"noshadows" "1"
+"nospecular" "1"
+"origin" "336 -1056 256"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 10
+{
+"classname" "light"
+"name" "light_7"
+"_color" "0.369 0.000 0.008"
+"light_center" "0 0 0"
+"light_radius" "256 256 256"
+"nodiffuse" "0"
+"noshadows" "1"
+"nospecular" "1"
+"origin" "0 -80 128"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 11
+{
+"classname" "light"
+"name" "light_9"
+"_color" "0.188 0.188 0.188"
+"light_center" "0 0 0"
+"light_radius" "256 256 256"
+"nodiffuse" "0"
+"noshadows" "1"
+"nospecular" "1"
+"origin" "0 -1056 128"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 12
+{
+"classname" "light"
+"name" "light_10"
+"_color" "0.188 0.188 0.188"
+"light_center" "0 0 0"
+"light_radius" "256 256 256"
+"nodiffuse" "0"
+"noshadows" "1"
+"nospecular" "1"
+"origin" "0 -1616 224"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 13
+{
+"classname" "light"
+"name" "light_11"
+"_color" "0.188 0.188 0.188"
+"light_center" "0 0 0"
+"light_radius" "256 256 256"
+"nodiffuse" "0"
+"noshadows" "1"
+"nospecular" "1"
+"origin" "0 -544 128"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}
+// entity 14
+{
+"classname" "light"
+"name" "light_8"
+"_color" "0.188 0.188 0.188"
+"light_center" "0 0 0"
+"light_radius" "256 256 256"
+"nodiffuse" "0"
+"noshadows" "1"
+"nospecular" "1"
+"origin" "0 -1968 224"
+"parallel" "0"
+"texture" "lights/defaultpointlight"
+}

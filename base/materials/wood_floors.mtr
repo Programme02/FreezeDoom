@@ -1,0 +1,7 @@
+textures/wood/floors/wood_floor01
+{
+	qer_editorimage textures/wood/floors/wood_floor01_editorimage
+	diffusemap textures/wood/floors/wood_floor01
+	specularmap textures/wood/floors/wood_floor01_rmao
+	bumpmap textures/wood/floors/wood_floor01_n
+}

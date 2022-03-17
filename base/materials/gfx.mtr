@@ -1,0 +1,32 @@
+console
+{
+	{
+		map	textures/black.tga
+		linear
+	}
+}
+
+splashScreen {
+	{  
+          forceHighQuality  
+          blend blend  
+          map guis/assets/splash/launch.tga 	
+	}
+}
+
+textures/REGION
+{
+	forceOpaque	
+}
+
+
+textures/bigchars {
+	{	
+		blend blend
+		maskDepth
+		colored
+		nopicmip
+		linear
+		map textures/consolechars.tga
+	}
+}
