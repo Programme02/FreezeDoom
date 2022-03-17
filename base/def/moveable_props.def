@@ -1,0 +1,28 @@
+
+
+//Moveable Items
+
+
+entityDef moveable_item_default
+{
+	"inherit"					"item_default"
+	"spawnclass"				"idMoveableItem"
+}
+
+entityDef moveable_prop_testcube {
+	"inherit"					"moveable_base"
+	"model"						"models/test/testcube/testcube.ase"
+	"density"					"0.005"
+	"friction"					"0.1"
+	"bouncyness"				"0.3"
+	"nonsolid"					"0"
+}
+
+entityDef moveable_prop_testsphere {
+	"inherit"					"moveable_base"
+	"model"						"models/test/testsphere/testsphere.ase"
+	"density"					"0"
+	"friction"					"0.1"
+	"bouncyness"				"60"
+	"nonsolid"					"0"
+}

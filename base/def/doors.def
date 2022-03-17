@@ -1,0 +1,15 @@
+model env_door_01 {
+	mesh						models/mapobjects/doors/door_01/door_01.md5mesh
+	anim closed					models/mapobjects/doors/door_01/idle_closed.md5anim
+	anim open					models/mapobjects/doors/door_01/open.md5anim
+}
+
+entityDef env_door_01 {
+	"editor_color"					"1 .5 0"
+	"editor_mins"					"-16 -16 0"
+	"editor_maxs"					"16 16 0"
+									
+	"spawnclass"					"idAnimated"
+	"model"							"env_door_01"
+	"anim"							"open"
+}
